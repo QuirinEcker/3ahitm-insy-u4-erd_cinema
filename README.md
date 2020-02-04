@@ -69,6 +69,6 @@
 
 
 ## ERD Diagramm
-<img src="/Users/quirin/Documents/3AHITM/Informationssysteme/Uebungen/ERD04/ERD04.png">
+<img src="./ERD04.png">
 
 
